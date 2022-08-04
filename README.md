@@ -13,6 +13,6 @@ Below is the image of Java HChapa game (stylized as hChapa).
 ![hChapa](https://img.itch.zone/aW1hZ2UvNzIxNTg3LzQwMDExMDkucG5n/original/983hRk.png)
 
 I managed to share source codes for it.
-If you really want typing game, download my modern 2.05/2.06 written in C++ programming language. It has more advanced features including flexible resizing and customer characters option to be used while playing. It currently runs in Windows OS and Linux. Below is the image of HChapa:
+If you really want typing game, download my modern 2.05/2.06 written in C++ programming language. It has more advanced features including flexible resizing and customer characters option to be used while playing. It currently runs in Windows OS and Linux. Below is the image of C++ HChapa 2.00+:
 
 ![HChapa](https://img.itch.zone/aW1hZ2UvMTE4Njc1MC82OTE5NTQ2LnBuZw==/original/j5CK%2Br.png)
