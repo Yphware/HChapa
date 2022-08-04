@@ -3,8 +3,10 @@ HChapa (hChapa) - The free Java typing game.
 
 This is my first version of HChapa typing game and it was written in Java.
 My recent and enhanced version is now written in C++, you can download it from [here](https://yphware.itch.io/hchapa2p)
+Only my C++ version I can update. So this Java version is the final release.
 
 ###### Overview 
+From version 2.00 I started to develop C++ version.
 This game is free and it can be used in Linux, Windows OS and Mac OS provided there is Java installed.
 Below is the image of Java HChapa game (stylized as hChapa).
 ![hChapa](https://img.itch.zone/aW1hZ2UvNzIxNTg3LzQwMDExMDkucG5n/original/983hRk.png)
