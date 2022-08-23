@@ -6,8 +6,8 @@ My recent and enhanced version is now written in C++, you can download it from [
 Only my C++ version I can update. So this Java version is the final release.
 
 ###### Overview 
-From version 2.00 I started to develop C++ version.
-This game is free and it can be used in Linux, Windows OS and Mac OS provided there is Java installed.
+From version 2.00 I started to develop C++ version (also free).
+But this  Java game (v1.00) is free and it can be used in Linux, Windows OS and Mac OS provided there is Java installed.
 Below is the image of Java HChapa game (stylized as hChapa).
 
 ![hChapa](https://img.itch.zone/aW1hZ2UvNzIxNTg3LzQwMDExMDkucG5n/original/983hRk.png)
